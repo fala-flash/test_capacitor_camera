@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "capacitor-camera-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

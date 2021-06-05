@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-camera-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
