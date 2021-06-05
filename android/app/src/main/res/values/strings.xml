@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CapacitorCamera</string>
+    <string name="title_activity_main">CapacitorCamera</string>
+    <string name="package_name">ionic.capacitor.camera</string>
+    <string name="custom_url_scheme">ionic.capacitor.camera</string>
+</resources>
